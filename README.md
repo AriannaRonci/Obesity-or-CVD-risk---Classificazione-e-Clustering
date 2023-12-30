@@ -4,7 +4,7 @@ Questa repository è relativa all'uso di alcune librerie per la creazione di mod
 
 ## Requisiti
 * Python 3.9 o versioni successive
-* Dipendenze Python: pandas, numpy, statsmodels, sklearn
+* Dipendenze Python: pandas, numpy, sklearn, xgboost, seaborn, kneed, yellowbrick, pywaffle
 
 
 ## Il dataset
